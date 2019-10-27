@@ -1,3 +1,3 @@
 # AlexaSkills
 
-Our privacy policy for Alexa Skills may be found [here](PrivacyPolicy.md)
+Before using our Alexa Skills, please read our [Privacy Policy](PrivacyPolicy.md) and [Terms of Use.](TermsOfUse.md)
