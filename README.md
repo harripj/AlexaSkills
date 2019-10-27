@@ -1,1 +1,3 @@
 # AlexaSkills
+
+![PrivacyPolicy.md]help
