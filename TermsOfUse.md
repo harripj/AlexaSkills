@@ -4,7 +4,7 @@ The terms of use are an agreement between Patrick Harrison (paddyh087) ("the dev
 
 ### Disclaimer
 
-Our skills or their parts of may discontinue at any time or may contain errors. You use our skills on your own responsibility. Any information provided should not be seen as advice. The information provided by the Alexa skill "Science Headlines" are copyright of the journals.
+Our skills or their parts of may discontinue at any time or may contain errors. You use our skills on your own responsibility. Any information provided should not be seen as advice. The information provided by the Alexa skill "Science Headlines" are copyright of the journals and not the original content of the developer, nor does the content reflect the devloper's views.
 
 ### Changes
 
